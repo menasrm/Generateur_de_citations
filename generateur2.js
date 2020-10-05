@@ -1,5 +1,5 @@
 let tableau1 = ['Végéta ', 'Kaneki ken ', 'Cell '];
-let tableau2 = ['combat','sauve','tue'];
+let tableau2 = ['dirige','surpasse','protège'];
 let tableau3 = [' les méchants',' les terriens',' les démons'];
 
 function creer_phrase(tableau_nom, tableau_verbe, tableau_complement) {
