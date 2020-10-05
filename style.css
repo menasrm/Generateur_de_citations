@@ -9,6 +9,7 @@ h1
 body 
 {
 	background-image: url('dragonball.jpg');
+    background-size: 1550px 1000px;
 }
 
 section p
